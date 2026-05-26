@@ -2,6 +2,7 @@
 
 A community-driven remake/modernization project of the classic visual novel **Yosuga no Sora** (Sphere, 2008). This repository aims to bring the beloved story to modern platforms with updated visuals and improved compatibility.
 ![Old memory](bg/EEC71A574E40E6BA15935B0F29A3E02A.png)
+![New memory](bg/Cache_5fa59b6aa60ae67.png)
 
 > **Note:** This project is a fan-made work and is not affiliated with Sphere or CUFFS.
 
