@@ -14,7 +14,7 @@ A community-driven remake/modernization project of the classic visual novel **Yo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/yosuga-no-sora-remake.git
+   git clone https://github.com/sempre0721/yosuga-no-sora-remake.git
    cd yosuga-no-sora-remake
    ```
 
