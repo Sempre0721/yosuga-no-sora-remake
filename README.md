@@ -1,6 +1,7 @@
 ### Yosuga no Sora Remake
 
 A community-driven remake/modernization project of the classic visual novel **Yosuga no Sora** (Sphere, 2008). This repository aims to bring the beloved story to modern platforms with updated visuals and improved compatibility.
+![Old memory](bg/EEC71A574E40E6BA15935B0F29A3E02A.png)
 
 > **Note:** This project is a fan-made work and is not affiliated with Sphere or CUFFS.
 
@@ -21,13 +22,13 @@ A community-driven remake/modernization project of the classic visual novel **Yo
 2. Run the game executable or script directly:
    ```bash
    # Example command (modify based on your actual file)
-   ./start_game.exe 
+   ./tvpwin32.exe
    ```
+3、By the way,this repo only had some code files without images nor musics,if you wanna play the galgame directly,please join the QQ group **1105302325** and download from 139cloudpan.
 
 #### Community & Discussion
 We welcome everyone to discuss ideas, share feedback, and contribute to the project!
 
-Join our official QQ group: **1105302325**
 
 #### Contributing
 Contributions are welcome! If you'd like to help with translation, coding, or art, please feel free to open an issue or submit a pull request.
